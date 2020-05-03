@@ -47,11 +47,11 @@ or
 ## __Included Fractals__ <a name = "fractals"></a>
 
 + Cantor
-    - ![img](cantor/cantor.png)
+    - ![img](cantor/cantor.png )
 + Fractal Tree
     - ![img](tree/tree-gif.gif)
 + Mandelbrot Set
-    - ![img](mandelbrot/m-1.png)
+    - ![img](mandelbrot/m-1.png)<a style= 'width=200px; height=400px'>
     - ![img](mandelbrot/m-2.png)
     - ![img](mandelbrot/m-3.png)
     - ![img](mandelbrot/m-4.png)
