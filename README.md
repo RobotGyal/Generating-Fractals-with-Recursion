@@ -46,20 +46,24 @@ or
 
 ## __Included Fractals__ <a name = "fractals"></a>
 
-+ Cantor
++ ## _Cantor_
     - ![img](cantor/cantor.png )
-+ Fractal Tree
+
++ ## _Fractal Tree_
     - ![img](tree/tree-gif.gif)
-+ Mandelbrot Set
-    - ![img](mandelbrot/m-1.png)<a style= 'width=200px; height=400px'>
+
++ ## _Mandelbrot Set_
+    - ![img](mandelbrot/m-1.png)
     - ![img](mandelbrot/m-2.png)
     - ![img](mandelbrot/m-3.png)
     - ![img](mandelbrot/m-4.png)
     - ![img](mandelbrot/m-5.png)
     - ![img](mandelbrot/m-6.png)
-+ Barnsleys Fern
+
++ ## _Barnsleys Fern_
     - ![img](fern/barnsleys-fern.png)
-+ Lorenz Attractor
+
++ ## _Lorenz Attractor_
     - ![img](lorenz_attractor/lorenz.gif)
 
 
